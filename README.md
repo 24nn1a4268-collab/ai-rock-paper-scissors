@@ -22,6 +22,7 @@ An AI-based Rock Paper Scissors game built using Python and Machine Learning (Sc
 
 ```bash
 python rps_ai_game.py
+```
 
 ## 🧠 How It Works
 
