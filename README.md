@@ -22,3 +22,11 @@ An AI-based Rock Paper Scissors game built using Python and Machine Learning (Sc
 
 ```bash
 python rps_ai_game.py
+
+🎯 How It Works
+User enters: rock / paper / scissors
+System stores previous moves
+Machine Learning model learns patterns from user behavior
+Computer predicts next move
+Computer selects the best counter move
+Score updates in real time
